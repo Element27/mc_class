@@ -1,0 +1,29 @@
+A student portal for result checking.
+
+** Admin logs students score
+** System grades student results
+** Student can use student id to check their result
+
+//FRD & PRD
+// PRD means: Product Requirement Documentataion : describes the product in details(screen, navigation, color scheme, etc)
+// frd means: Functional Requirement Documentation (screens, actions, user types, functionalities etc)
+
+User type:
+Admin
+Student
+
+
+Admin: 
+-sign up/ log in
+-enter score {
+    create a subject type
+    create student profile
+    enter the grade type (Test / Exam)
+    Publish result
+}
+// admin will have a dashboard
+
+
+Student:
+-log in
+-view their grade
